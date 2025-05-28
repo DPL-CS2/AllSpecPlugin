@@ -8,12 +8,12 @@ Moves all human players to the spectator team.
 - Configurable via JSON files
 
 ## Installation
-Place the plugin in ´addons/counterstrikesharp/plugins/AllSpecPlugin.´
+Place the plugin in `addons/counterstrikesharp/plugins/AllSpecPlugin.`
 
-After the first server startup, the configuration file will be created in ´addons/counterstrikesharp/configs/plugins/AllSpecPlugin.´
+After the first server startup, the configuration file will be created in `addons/counterstrikesharp/configs/plugins/AllSpecPlugin.`
 
 ## Permissions
-Change your flags permission in ´addons/counterstrikesharp/configs/plugins/AllSpecPlugin.´
+Change your flags permission in `addons/counterstrikesharp/configs/plugins/AllSpecPlugin.`
 
 ## Exec
 
