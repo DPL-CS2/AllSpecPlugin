@@ -19,3 +19,4 @@ Use `css_allspec` command on server console (you have to setup SteamID on `admin
 ## Contributors
 
 Thanks T3Marius and varkit for the start idea.
+Plugin improvements by wiruwiru
