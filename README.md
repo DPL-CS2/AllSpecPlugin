@@ -1,15 +1,14 @@
 # AllSpecPlugin
 
-A simple plugin for CS2 using CounterStrikeSharp.
+Moves all human players to the spectator team.
 
 ## Features
-- Moves all human players to the spectator team.
 - Flags support
 - Multi-language support
 - Configurable via JSON files
 
 ## Installation
-Place the plugin in csgo/addons/counterstrikesharp/plugins/AllSpecPlugin.
+Place the plugin in addons/counterstrikesharp/plugins/AllSpecPlugin.
 
 After the first server startup, the configuration file will be created in addons/counterstrikesharp/configs/plugins/AllSpecPlugin.
 
