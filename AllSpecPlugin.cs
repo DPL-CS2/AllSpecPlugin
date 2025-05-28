@@ -9,7 +9,7 @@ namespace AllSpecPlugin;
 public partial class AllSpecPlugin : BasePlugin, IPluginConfig<BaseConfigs>
 {
     public override string ModuleName => "AllSpec Plugin";
-    public override string ModuleVersion => "1.0.1";
+    public override string ModuleVersion => "1.0.2";
     public override string ModuleAuthor => "DPL";
     public override string ModuleDescription => "Moves all human players to the spectators team";
 

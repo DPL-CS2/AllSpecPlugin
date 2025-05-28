@@ -1,0 +1,6 @@
+{
+  "prefix": "[{orange}AllSpec{white}]",
+  "no_permission": "Você não tem permissão para usar este comando.",
+  "command_description": "Move todos para o time de espectadores",
+  "moved_count": "{0} jogadores foram movidos para espectadores."
+}
