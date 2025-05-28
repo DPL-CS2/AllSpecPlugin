@@ -14,8 +14,9 @@ Add SteamIDs in `config/admins.json`.
 
 ## Exec
 
-Use `css_allspec` command on server console (you have to setup SteamID on `admins.json` before)
+Use `css_allspec` command on server console
 
 ## Contributors
 
-Thanks T3Marius and varkit for the start idea.
+Thanks T3Marius and varkit for the start idea;
+Thanks @wiruwiru for help with plugin improvements.
