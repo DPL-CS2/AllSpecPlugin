@@ -1,0 +1,32 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.cache
+*.db
+*.log
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+*.old
+*.nupkg
+*.zip
+
+# VS Build results
+*.dll
+*.exe
+*.pdb
+*.nuget.props
+*.nuget.targets
+
+# Plugin config folders (keep only templates)
+config/
+lang/
+
+# Allow config and lang folders but ignore generated files
+!config/plugin_config.json
+!config/admins.json
+!lang/pt_br.json
+!lang/en_us.json
