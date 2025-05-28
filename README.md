@@ -5,8 +5,7 @@ A simple plugin for CS2 using CounterStrikeSharp.
 ## Features
 - Moves all human players to the spectator team.
 - Flags support
-- Supports permission via SteamIDs
-- Multi-language support (English and Portuguese)
+- Multi-language support
 - Configurable via JSON files
 
 ## Installation
