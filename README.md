@@ -10,6 +10,7 @@ A simple plugin for CS2 using CounterStrikeSharp.
 
 ## Installation
 Place the plugin in csgo/addons/counterstrikesharp/plugins/AllSpecPlugin.
+
 After the first server startup, the configuration file will be created in addons/counterstrikesharp/configs/plugins/AllSpecPlugin.
 
 ## Permissions
